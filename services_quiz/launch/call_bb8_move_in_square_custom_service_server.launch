@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="services_quiz" type="bb8_move_custom_service_client.py" name="services_quiz_custom_client_node" output="screen">
+    </node>
+</launch>

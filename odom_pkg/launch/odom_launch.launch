@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="odom_pkg" type="odom.py" name="odom_sub" output="screen">
+    </node>
+</launch>

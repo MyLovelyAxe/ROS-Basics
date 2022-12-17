@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="exer31" type="e3_1.py" name="robot_move_publisher" output="screen" />
+
+</launch>
